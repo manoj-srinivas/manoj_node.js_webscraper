@@ -54,8 +54,8 @@ Follow these steps to set up and run the IMDb Movie Scraper on your local machin
 First, clone the project using Git:
 
 ```bash
-git clone https://github.com/yourusername/imdb-scraper.git
-cd backend
+git clone https://github.com/manoj-srinivas/manoj_node.js_webscraper.git
+cd .\manoj_node.js_webscraper-main\
 #  Install Project Dependencies
 npm install
 
