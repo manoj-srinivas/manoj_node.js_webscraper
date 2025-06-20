@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The King of Comedy",
+    "releaseYear": "1982",
+    "rating": "7.8",
+    "directors": "Martin Scorsese",
+    "cast": "Robert De Niro, Jerry Lewis, Diahnne Abbott, Sandra Bernhard, Ed Herlihy",
+    "summary": "Rupert is an aspiring stand-up comedian, who is willing to go the extra mile in his attempt to appear in the late night show hosted by his idol."
+  },
+  {
+    "title": "The Comedy",
+    "releaseYear": "2012",
+    "rating": "6.3",
+    "directors": "Rick Alverson",
+    "cast": "Tim Heidecker, Eric Wareheim, James Murphy, Jeffrey Jensen, Gregg Turkington",
+    "summary": "Indifferent to the notion of inheriting his father's estate, a restless, aging New Yorker passes time with his friends in games of mock sincerity and irreverence."
+  },
+  {
+    "title": "InAPPropriate Comedy",
+    "releaseYear": "2013",
+    "rating": "2.7",
+    "directors": "Vince Offer",
+    "cast": "Adrien Brody, Lindsay Lohan, Michelle Rodriguez, Rob Schneider, Noelle Kenney",
+    "summary": "In this comedy film, a computer tablet full of the world's most hilariously offensive apps breaks through the borders of political correctness, stirring up cultural anarchy."
+  },
+  {
+    "title": "King of Comedy",
+    "releaseYear": "1999",
+    "rating": "7.2",
+    "directors": "Stephen Chow, Lik-Chi Lee",
+    "cast": "Stephen Chow, Karen Mok, Cecilia Cheung, Man-Tat Ng, Kai-Man Tin",
+    "summary": "A bar girl hires a struggling actor to give her acting lessons so that she can feign a greater interest in her customers. The longer they work together, the more they find they have in common."
+  },
+  {
+    "title": "The Broken Hearts Club: A Romantic Comedy",
+    "releaseYear": "2000",
+    "rating": "6.9",
+    "directors": "Greg Berlanti",
+    "cast": "Timothy Olyphant, Dean Cain, Zach Braff, Ben Weber, Matt McGrath",
+    "summary": "An insight into the turbulent lives and loves of a gay clique based in Los Angeles."
+  }
+]

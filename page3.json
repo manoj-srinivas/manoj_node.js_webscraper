@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Original Kings of Comedy",
+    "releaseYear": "2000",
+    "rating": "6.8",
+    "directors": "Spike Lee",
+    "cast": "Steve Harvey, D.L. Hughley, Cedric The Entertainer, Bernie Mac",
+    "summary": "A concert film featuring four major African American stand up comedians."
+  },
+  {
+    "title": "Outstanding: A Comedy Revolution",
+    "releaseYear": "2024",
+    "rating": "7.4",
+    "directors": "Page Hurwitz",
+    "cast": "Judy Gold, Guy Branum, Rosie O'Donnell, Fortune Feimster, Robin Tyler",
+    "summary": "A feature length documentary that explores the history of LGBTQ+ stand up comedy, considering its importance as an instrument for social change over the past five decades."
+  },
+  {
+    "title": "Comedy Queen",
+    "releaseYear": "2022",
+    "rating": "6.7",
+    "directors": "Sanna Lenken",
+    "cast": "Sigrid Johnson, Oscar Töringe, Frida Beckman, Ellen Taure, Iggy Malmborg",
+    "summary": "After her mother's death and father's ensuing depression, 13-year-old Sasha decides to look on the bright side of life and become a stand-up comedian."
+  },
+  {
+    "title": "Comedy Warriors: Healing Through Humor",
+    "releaseYear": "2013",
+    "rating": "7.0",
+    "directors": "John Wager",
+    "cast": "Robert Henline, Rob Jones, Joe Kashnow, Stephen Rice, Darisse Smith",
+    "summary": "Take five wounded veterans and four top comedians, the result... laughter and the healing power of humor."
+  },
+  {
+    "title": "The Comedy of Terrors",
+    "releaseYear": "1963",
+    "rating": "6.5",
+    "directors": "Jacques Tourneur",
+    "cast": "Vincent Price, Peter Lorre, Boris Karloff, Joyce Jameson, Joe E. Brown",
+    "summary": "Dishonest undertaker Waldo Trumbull and his sidekick Felix Gillie are creating their own customers when they cannot find willing ones."
+  }
+]
